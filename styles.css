@@ -15,6 +15,7 @@ nav a {
 }
 
 img {
+  margin-left: 10px;
   width: 200px;
   height: 200px;
   border-radius: 50%;
@@ -42,4 +43,14 @@ img {
   width: 80%;
   padding: 10px;
   margin-bottom: 10px;
+}
+
+.link-section {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.link-section p {
+  margin: 10px;
 }
